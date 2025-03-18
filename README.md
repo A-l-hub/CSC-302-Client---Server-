@@ -18,6 +18,8 @@ The server will display that it is listening for connections.
 The client will send a message to the server.
 The server will respond, and the client will print the response.
 ### 4. Screenshot:
+![image](https://github.com/user-attachments/assets/8b8152eb-8819-42a2-8adc-8af80b6372aa)
+
  
 Repository
 All files are available in this repository. Clone it using:
